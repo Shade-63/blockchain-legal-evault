@@ -1,0 +1,37 @@
+{
+  "project": "Legal eVault",
+  "purpose": "Antigravity-ready PRD, architecture, coding rules, skills and workflows",
+  "files": [
+    ".agents/CONTEXT.md",
+    ".agents/rules/architecture.md",
+    ".agents/rules/coding.md",
+    ".agents/rules/security.md",
+    ".agents/rules/testing.md",
+    ".agents/skills/backend/SKILL.md",
+    ".agents/skills/blockchain/SKILL.md",
+    ".agents/skills/qa/SKILL.md",
+    ".agents/skills/repo-research/SKILL.md",
+    ".agents/skills/security-review/SKILL.md",
+    ".agents/workflows/bootstrap.md",
+    ".agents/workflows/implement-feature.md",
+    ".agents/workflows/mvp-check.md",
+    "AGENTS.md",
+    "PRD.md",
+    "docs/api.md",
+    "docs/architecture.md",
+    "docs/data-model.md",
+    "docs/decisions.md",
+    "docs/demo-script.md",
+    "docs/development.md",
+    "docs/roadmap.md",
+    "docs/security.md",
+    "docs/smart-contract.md",
+    "docs/test-scenarios.md",
+    "docs/ui.md"
+  ],
+  "antigravity_paths": [
+    ".agents/rules/",
+    ".agents/skills/",
+    ".agents/workflows/"
+  ]
+}
